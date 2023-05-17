@@ -1,4 +1,4 @@
-Pine Valley Furniture Company
+**Pine Valley Furniture Company**
 
 This repository contains all the SQL scripts, database diagrams, and documentation related to the creation of a database for Pine Valley Furniture Company. The project is designed to showcase the power and flexibility of SQL in creating and managing complex databases.
 
