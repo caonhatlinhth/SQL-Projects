@@ -16,7 +16,7 @@ This repository is organized as follows:
 
 The primary tool used for this project is MySQL, an open-source relational database management system. MySQL was chosen for its robustness, flexibility, and wide industry usage.
 
-**Diagram and explaination**
+**E-R Diagram and explaination**
 
 ![image](https://github.com/caonhatlinhth/SQL-Projects/assets/62228403/b8ed1e6d-5d52-4011-8eda-e258b50dc81c)
 
